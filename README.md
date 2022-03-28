@@ -9,7 +9,7 @@
 
 ## About Me
 
- :collision:21
+ :collision:22
   
  :notebook_with_decorative_cover: Currently learning Python and Data Science.
  

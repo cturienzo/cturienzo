@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm César Turienzo, Artificial Intelligence student at UC3M:computer:<br>
+  <br> I'm César Turienzo, Data Scientist and MSc. in Artificial Intelligence:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -9,11 +9,15 @@
 
 ## About Me
 
- :collision:22
+ :collision:25
   
- :notebook_with_decorative_cover: Currently learning Python and Data Science.
+ :notebook_with_decorative_cover: Currently learning about AI new trends (Generative and Agentic AI).
  
- :man_technologist: Collaborating on "AI applied to scientific documentation: recommendation systems" project at UPM.
+ :man_technologist: Projects I have been involved in during university:
+ <ul> 
+   <li> :bookmark_tabs: <strong>"AI applied to scientific documentation: recommendation systems", using NLP techniches and Recommendation algorithms. </strong></li>
+   <li> :bookmark_tabs: <strong>"Contaminant Detection in microwave imaging", using Computer Vision techniques and Clasification and Object Detection algorithms on images. </strong></li>
+ </ul>
  
  
  

@@ -15,8 +15,8 @@
  
  :man_technologist: Projects I have been involved in during university:
  <ul> 
-   <li> :bookmark_tabs: <strong>"AI applied to scientific documentation: recommendation systems", using NLP techniches and Recommendation algorithms. </strong></li>
-   <li> :bookmark_tabs: <strong>"Contaminant Detection in microwave imaging", using Computer Vision techniques and Clasification and Object Detection algorithms on images. </strong></li>
+   <li> :bookmark_tabs: <strong>"AI applied to scientific documentation: recommendation systems"</strong>, using NLP techniches and Recommendation algorithms.</li>
+   <li> :framed_picture: <strong>"Contaminant Detection in microwave imaging"</strong>, using Computer Vision techniques and Clasification and Object Detection algorithms on images. </li>
  </ul>
  
  
